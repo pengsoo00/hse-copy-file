@@ -1,4 +1,4 @@
-# copy-File
+# Copy-File
 
 Консольная утилита, выполняющая функцию копии всех файлов из источника в назначение с сохранением структуры поддиректорий. Ниже приведен пример использования утилиты.
 
@@ -8,7 +8,7 @@
     > cd target
   
     # Execute the jar:
-    > java -jar hseFileCopy-0.0.1-SNAPSHOT.jar
+    > java -jar hseCopyFile-0.0.1-SNAPSHOT.jar
   
     # source destination poolSize 
     Example:
