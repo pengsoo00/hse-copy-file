@@ -8,7 +8,7 @@
     > cd target
   
     # Execute the jar:
-    > java -jar hse-0.0.1-SNAPSHOT.jar
+    > java -jar hseFileCopy-0.0.1-SNAPSHOT.jar
   
     # source destination poolSize 
     Example:
@@ -18,4 +18,4 @@
     Failed to copy 0 files
 
 ## Command line application in a Docker container
-    > docker container run -it pengs01/docker-copy-File:firsttry
+    > docker container run -it pengs01/docker-copy-file:firsttry
