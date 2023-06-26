@@ -12,7 +12,6 @@
   
     # source destination poolSize 
     Example:
-  
     > C:\example_input C:\example_output 10
     Progress: 17,53%
     Copied 5 files (17 bytes)
