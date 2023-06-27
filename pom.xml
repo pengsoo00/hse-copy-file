@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hse</groupId>
-	<artifactId>hseFileCopy</artifactId>
+	<artifactId>hseCopyFile</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FileCopy</name>
 	<description>FileCopy</description>

@@ -1,0 +1,128 @@
+июн. 27, 2023 3:51:55 PM hse.copyfile.CopyFile main
+INFO: Copied 0 files (0 bytes)
+июн. 27, 2023 3:51:55 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 5 files
+июн. 27, 2023 3:52:15 PM hse.copyfile.CopyFile main
+INFO: Copied 4 files (10 bytes)
+июн. 27, 2023 3:52:15 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 0 files
+июн. 27, 2023 3:52:34 PM hse.copyfile.CopyFile main
+INFO: Copied 0 files (0 bytes)
+июн. 27, 2023 3:52:34 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 5 files
+июн. 27, 2023 3:52:52 PM hse.copyfile.CopyFile main
+INFO: Copied 5 files (35 bytes)
+июн. 27, 2023 3:52:52 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 0 files
+июн. 27, 2023 4:06:50 PM hse.copyfile.CopyFile main
+INFO: Copied 0 files (0 bytes)
+июн. 27, 2023 4:06:50 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 5 files
+июн. 27, 2023 4:07:00 PM hse.copyfile.CopyFile main
+INFO: Copied 5 files (27 bytes)
+июн. 27, 2023 4:07:00 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 0 files
+июн. 27, 2023 4:07:03 PM hse.copyfile.CopyFile main
+INFO: Copied 0 files (0 bytes)
+июн. 27, 2023 4:07:03 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 5 files
+июн. 27, 2023 4:07:12 PM hse.copyfile.CopyFile main
+INFO: Copied 0 files (0 bytes)
+июн. 27, 2023 4:07:12 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 5 files
+июн. 27, 2023 4:08:43 PM hse.copyfile.CopyFile main
+INFO: Progress: 53,96%
+июн. 27, 2023 4:08:44 PM hse.copyfile.CopyFile main
+INFO: Progress: 64,11%
+июн. 27, 2023 4:08:44 PM hse.copyfile.CopyFile main
+INFO: Copied 1993 files (178717692 bytes)
+июн. 27, 2023 4:08:44 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 5 files
+июн. 27, 2023 4:12:49 PM hse.copyfile.CopyFile main
+INFO: Progress: 63,26%
+июн. 27, 2023 4:12:49 PM hse.copyfile.CopyFile main
+INFO: Copied 1999 files (176322923 bytes)
+июн. 27, 2023 4:12:49 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 0 files
+июн. 27, 2023 4:26:08 PM hse.copyfile.CopyFile main
+INFO: Progress: 64,00%
+июн. 27, 2023 4:26:08 PM hse.copyfile.CopyFile main
+INFO: Copied 2000 files (178386482 bytes)
+июн. 27, 2023 4:26:08 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 0 files
+июн. 27, 2023 4:27:13 PM hse.copyfile.CopyFile main
+INFO: Copied 0 files (0 bytes)
+июн. 27, 2023 4:27:13 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 2005 files
+июн. 27, 2023 4:47:42 PM hse.copyfile.CopyFile main
+INFO: Progress: 55,70%
+июн. 27, 2023 4:47:43 PM hse.copyfile.CopyFile main
+INFO: Progress: 62,44%
+июн. 27, 2023 4:47:43 PM hse.copyfile.CopyFile main
+INFO: Copied 2004 files (174059319 bytes)
+июн. 27, 2023 4:47:43 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 0 files
+июн. 27, 2023 4:48:34 PM hse.copyfile.CopyFile main
+INFO: Progress: 17,73%
+июн. 27, 2023 4:48:35 PM hse.copyfile.CopyFile main
+INFO: Progress: 27,22%
+июн. 27, 2023 4:48:36 PM hse.copyfile.CopyFile main
+INFO: Progress: 46,56%
+июн. 27, 2023 4:48:37 PM hse.copyfile.CopyFile main
+INFO: Progress: 55,76%
+июн. 27, 2023 4:48:38 PM hse.copyfile.CopyFile main
+INFO: Progress: 61,46%
+июн. 27, 2023 4:48:38 PM hse.copyfile.CopyFile main
+INFO: Copied 3997 files (296459230 bytes)
+июн. 27, 2023 4:48:38 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 0 files
+июн. 27, 2023 4:53:19 PM hse.copyfile.CopyFile main
+INFO: Copied 2 files (14 bytes)
+июн. 27, 2023 4:53:20 PM hse.copyfile.CopyFile main
+INFO: Failed to copy 0 files
+июн. 27, 2023 4:55:42 PM hse.copyfile.CopyFile main
+INFO: Progress: 26,44%
+июн. 27, 2023 4:55:43 PM hse.copyfile.CopyFile main
+INFO: Progress: 40,23%
+июн. 27, 2023 4:55:44 PM hse.copyfile.CopyFile main
+INFO: Progress: 57,11%
+июн. 27, 2023 4:55:45 PM hse.copyfile.CopyFile main
+INFO: Progress: 62,19%
+июн. 27, 2023 4:55:46 PM hse.copyfile.CopyFile main
+INFO: Progress: 64,86%
+���. 27, 2023 4:57:06 PM hse.copyfile.CopyFile main
+INFO: Progress: 0,00%
+���. 27, 2023 4:57:33 PM hse.copyfile.CopyFile main
+INFO: Progress: 40,45%
+���. 27, 2023 4:57:34 PM hse.copyfile.CopyFile main
+INFO: Progress: 48,55%
+���. 27, 2023 4:57:35 PM hse.copyfile.CopyFile main
+INFO: Progress: 51,37%
+���. 27, 2023 4:57:53 PM hse.copyfile.CopyFile main
+INFO: Progress: 54,24%
+���. 27, 2023 4:59:04 PM hse.copyfile.CopyFile main
+INFO: Progress: 14,59%
+���. 27, 2023 4:59:05 PM hse.copyfile.CopyFile main
+INFO: Progress: 26,48%
+���. 27, 2023 4:59:06 PM hse.copyfile.CopyFile main
+INFO: Progress: 37,35%
+���. 27, 2023 4:59:07 PM hse.copyfile.CopyFile main
+INFO: Progress: 48,27%
+���. 27, 2023 4:59:08 PM hse.copyfile.CopyFile main
+INFO: Progress: 59,75%
+���. 27, 2023 4:59:10 PM hse.copyfile.CopyFile main
+INFO: Progress: 77,64%
+���. 27, 2023 4:59:11 PM hse.copyfile.CopyFile main
+INFO: Progress: 87,69%
+���. 27, 2023 4:59:12 PM hse.copyfile.CopyFile main
+INFO: Progress: 96,07%
+���. 27, 2023 4:59:13 PM hse.copyfile.CopyFile main
+INFO: Progress: 100,00%
+июн. 27, 2023 5:14:37 PM hse.copyfile.CopyFile main
+INFO: Progress: 25,20%
+июн. 27, 2023 5:14:38 PM hse.copyfile.CopyFile main
+INFO: Progress: 46,29%
+июн. 27, 2023 5:14:39 PM hse.copyfile.CopyFile main
+INFO: Progress: 57,17%
+июн. 27, 2023 5:14:40 PM hse.copyfile.CopyFile main
+INFO: Progress: 62,81%
